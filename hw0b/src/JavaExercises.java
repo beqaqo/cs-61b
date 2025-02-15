@@ -69,5 +69,4 @@ public class JavaExercises {
         else
             return hailstoneHelper(x * 3 + 1, list);
     }
-
 }
